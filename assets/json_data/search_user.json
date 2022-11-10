@@ -1,0 +1,15 @@
+{
+  "status":true,
+  "data":[
+    {
+      "u_id":"0001",
+      "u_name":"Prajwal",
+      "u_number":"9876543210"
+    },
+    {
+      "u_id":"0001",
+      "u_name":"Praween",
+      "u_number":"9876543211"
+    },
+  ]
+}

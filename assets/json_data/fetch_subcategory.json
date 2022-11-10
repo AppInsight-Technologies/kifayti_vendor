@@ -1,0 +1,12 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": "999",
+      "category_name": "All",
+      "icon_image": "999",
+      "parentId": "0",
+      "type": 1
+    }
+  ]
+}

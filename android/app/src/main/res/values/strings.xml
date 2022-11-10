@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_id">com.kifaytivendor.store.default</string>
+    <string name="app_name">Evgrocer vendor</string>
+
+</resources>

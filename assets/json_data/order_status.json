@@ -1,0 +1,6 @@
+{
+  "all":"All",
+  "delivered":"Recived",
+  "pending":"Delivering",
+  "failed":"Canceled"
+}

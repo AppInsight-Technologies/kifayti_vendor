@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "614077065115",
+    "project_id": "kifayti-9fc7f",
+    "storage_bucket": "kifayti-9fc7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614077065115:android:e47c0e5b67304d8140633e",
+        "android_client_info": {
+          "package_name": "com.kifayti.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614077065115-43t69l90jv23h0c1p2fb6ket6vdk81dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kifayti.store",
+            "certificate_hash": "88a83abce9503f89ddcaa2a2040211aded88425e"
+          }
+        },
+        {
+          "client_id": "614077065115-sk85ijfpci7jd22escv0pjkqerk2r3ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlJ6PHCvKMauIdQ4TWUWu_zACrYhY6ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614077065115-sk85ijfpci7jd22escv0pjkqerk2r3ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614077065115:android:454ba20fcbc3f97340633e",
+        "android_client_info": {
+          "package_name": "com.kifaytidelivery.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614077065115-sk85ijfpci7jd22escv0pjkqerk2r3ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlJ6PHCvKMauIdQ4TWUWu_zACrYhY6ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614077065115-sk85ijfpci7jd22escv0pjkqerk2r3ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614077065115:android:b5a5ff0479888e9940633e",
+        "android_client_info": {
+          "package_name": "com.kifaytivendor.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614077065115-sk85ijfpci7jd22escv0pjkqerk2r3ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlJ6PHCvKMauIdQ4TWUWu_zACrYhY6ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614077065115-sk85ijfpci7jd22escv0pjkqerk2r3ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

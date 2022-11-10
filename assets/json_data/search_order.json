@@ -1,0 +1,29 @@
+{
+  "status":true,
+  "data":[
+    {
+      "o_id":"#12345",
+      "u_name":"Prajwal Shetty",
+      "o_date":"10/12/2021",
+      "pay_status":"Internet Banking",
+      "pay_amount":280.0,
+      "o_status":"Compleated"
+    },
+    {
+      "o_id":"#12344",
+      "u_name":"Prajwal Shetty",
+      "o_date":"10/12/2021",
+      "pay_status":"UPI",
+      "pay_amount":280.0,
+      "o_status":"Pending Delevery"
+    },
+    {
+      "o_id":"#12343",
+      "u_name":"Praveen",
+      "o_date":"10/12/2021",
+      "pay_status":"COD",
+      "pay_amount":280.0,
+      "o_status":"Cancled"
+    }
+  ]
+}

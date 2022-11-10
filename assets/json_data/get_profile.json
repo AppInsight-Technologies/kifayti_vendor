@@ -1,0 +1,41 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": 157,
+      "email": "prajwalshettybaikady@gmail.com",
+      "mobileNumber": "9632618670",
+      "username": "prajwalshettybaikady",
+      "membership": "0",
+      "area": "Ambalpady Bypass Bus Stop",
+      "ip": "103.87.92.242",
+      "createdDate": "2021-08-28 10:48:13",
+      "channel": "Android",
+      "device": "Android",
+      "latitude": "13.336909",
+      "longitude": "74.7367323",
+      "isActive": true,
+      "branch": "999",
+      "isOnline": true,
+      "roles": [
+        "ROLE_CUSTOMER"
+      ],
+      "apiKey": "157",
+      "otp": "1348",
+      "path": "",
+      "registrationKey": "null",
+      "sex": "0",
+      "myref": "157-NR",
+      "welcomebonus": 1,
+      "billingAddress": []
+    }
+  ],
+  "notification_count": 0,
+  "prepaid": [
+    {
+      "postpaid": 0,
+      "prepaid": 0,
+      "loyalty": 0
+    }
+  ]
+}

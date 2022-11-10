@@ -1,0 +1,69 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": "555",
+      "category_name": "Fruits & Vegetables",
+      "description": "Vegetables, Fruits, Exotics, Vegetables & Fruits Cleaners",
+      "icon_image": "61657cc4b9650_1634041028.png",
+      "bannerImage": "",
+      "heading": "Farm Fresh"
+    },
+    {
+      "id": "381",
+      "category_name": "Grocery & Staples",
+      "description": "Pulses, Atta & Other Flours, Rice & Other Grains, Dry Fruits & Nuts, Edible Oils, Ghee & Vanaspati, Spices, Salt & Sugar, Organic Staples",
+      "icon_image": "61657ccda4648_1634041037.png",
+      "heading": "Up to 30% OFF"
+    },
+    {
+      "id": "604",
+      "category_name": "Snacks & Beverages",
+      "description": "Chocolates, Biscuits & Cookies, Namkeen & Snacks, Chips & Crisps",
+      "icon_image": "61657ce15e0a5_1634041057.png",
+      "heading": "Up to 10% OFF"
+    },
+    {
+      "id": "563",
+      "category_name": "Packaged Food",
+      "description": "Frozen Veggies, Breakfast & Cereals, Noodles & Pasta, Ketchup & Spreads, Chocolates & Sweets",
+      "icon_image": "61657ced1cca1_1634041069.png",
+      "heading": "Up to 15% OFF"
+    },
+    {
+      "id": "559",
+      "category_name": "Meat & Fish",
+      "description": "Eggs, Chicken & Mutton",
+      "icon_image": "61657f593b44b_1634041689.png",
+      "heading": "Up to 10% OFF"
+    },
+    {
+      "id": "433",
+      "category_name": "Breakfast & Dairy",
+      "description": "Milk & Milk Products, Butter, Cheese & Spreads, Paneer & Curd, Bread & Eggs, Breakfast Cereal & Mixes, Batter, Jams, Honey & Spreads, Fresh Sweets, Fresh Bakery, New Launches, Breakfast & Dairy Best Offers, Vegan Products, Organic Dairy",
+      "icon_image": "61657d051a62a_1634041093.png",
+      "heading": "Up to 30% OFF"
+    },
+    {
+      "id": "441",
+      "category_name": "Household Care",
+      "description": "Disinfectants, Buy 1 Get 1 Free, Household Best Offers, Laundry Detergents, Cleaners, Dishwashers, Liquid Detergents, Repellents, Tissues & Disposables, Pooja Needs, Home & Car Fresheners, Shoe Care, Cleaning Tools & Brushes",
+      "icon_image": "61657d15ceffc_1634041109.png",
+      "heading": "Up to 22% OFF"
+    },
+    {
+      "id": "480",
+      "category_name": "Beverages",
+      "description": "Energy & Soft drinks, Health Drinks & Supplements",
+      "icon_image": "61657d21deb15_1634041121.png",
+      "heading": "Up to 30% OFF"
+    },
+    {
+      "id": "483",
+      "category_name": "Personal & Baby Care",
+      "description": "Health And Wellness, Bath & Body, Hair Care, Skin Care, Oral Care, Men's Grooming, Face Care, Feminine Hygiene, Fragrances, Cosmetics, Women's Grooming",
+      "icon_image": "6191f0d971007_1636954329.png",
+      "heading": ""
+    }
+  ]
+}

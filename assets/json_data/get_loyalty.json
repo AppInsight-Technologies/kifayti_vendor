@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2",
+    "status": "0",
+    "type": "0",
+    "minimum_order_amount": "0",
+    "points": "0",
+    "maximum_redeem": "0",
+    "discount": "0",
+    "branch": sl<SharedPreferences>().getString(Prefrence.BRANCH)
+  }
+]

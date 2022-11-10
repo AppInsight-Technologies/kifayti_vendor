@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 500022,
+      "first_name": "Mohd ",
+      "last_name": "Ashref",
+      "mobile_number": "966573115872",
+      "email": "Shattialsharqia77@gmail.com",
+      "branch": "14",
+      "api_key": "15",
+      "registration_key": "",
+      "password": "$2y$13$WvPjtCDbfxpxfdLB3gtqf.gDlZiMiBzcSt91r49Wzyd3tl8YDTOR2",
+      "user_type": "Admin",
+      "is_active": true,
+      "roles": [
+        "ROLE_ADMIN"
+      ],
+      "branchtype": "0"
+    }
+  ]
+}

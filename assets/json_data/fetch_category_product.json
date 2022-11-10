@@ -1,0 +1,322 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": "10",
+      "eligible_for_express": "1",
+      "delivery_duration": "slot",
+      "subscription_slot": [],
+      "payment_mode": "0",
+      "duration": "3",
+      "category_id": "557",
+      "item_name": "Tomato",
+      "item_slug": "tomato",
+      "veg_type": "none",
+      "item_featured_image": "894987.jpeg",
+      "regular_price": "48",
+      "sale_price": "10",
+      "is_active": "1",
+      "sales_tax": "18",
+      "total_qty": "48",
+      "item_description": "Tomato contain numerous edible seeds and are red in colour due to lycopene, an anti-oxidant.'Do not forget to check out our delicious recipe",
+      "brand": "Grocbay Naturals",
+      "type": "1",
+      "price_variation": [
+        {
+          "loyalty": 100,
+          "net_weight": "0",
+          "id": "17",
+          "menu_item_id": "10",
+          "variation_name": "1-4",
+          "price": 10,
+          "priority": "0",
+          "mrp": 10,
+          "stock": 48,
+          "max_item": "4",
+          "unit": "KG",
+          "status": "0",
+          "min_item": "1",
+          "membership_price": 1,
+          "loyaltys": 0,
+          "images": [],
+          "weight": "1",
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "eligible_for_express": "1",
+      "delivery_duration": [
+        {
+          "id": "1",
+          "name": "3 to 5 Days",
+          "durationType": "1",
+          "duration": "120",
+          "status": "0",
+          "branch": "999",
+          "note": "3 to 5 Days",
+          "blockFor": "1"
+        }
+      ],
+      "eligible_for_subscription": "1",
+      "subscription_slot": [
+        {
+          "id": "1",
+          "name": "test",
+          "cronTime": "5:30 AM",
+          "deliveryTime": "5:30 AM",
+          "branch": "999",
+          "status": "0"
+        }
+      ],
+      "payment_mode": "0",
+      "duration": "0",
+      "category_id": "557",
+      "item_name": "Onion",
+      "item_slug": "onion",
+      "veg_type": "veg",
+      "item_featured_image": "403041.webp",
+      "regular_price": "144",
+      "sale_price": "0",
+      "is_active": "1",
+      "sales_tax": "18",
+      "total_qty": "0",
+      "brand": "Daily Fresh",
+      "type": "0",
+      "price_variation": [
+        {
+          "loyalty": 1800,
+          "id": "52",
+          "net_weight": "0",
+          "menu_item_id": "26",
+          "variation_name": "250",
+          "price": 180,
+          "priority": "0",
+          "mrp": 200,
+          "stock": 75,
+          "max_item": "10",
+          "status": "0",
+          "min_item": "1",
+          "weight": "0.25",
+          "membership_price": 175,
+          "unit": "gram",
+          "loyaltys": 0,
+          "images": [
+            {
+              "id": "65",
+              "image": "onion.webp",
+              "ref": "52"
+            }
+          ],
+          "quantity": 0
+        },
+        {
+          "loyalty": 900,
+          "id": "51",
+          "net_weight": "0",
+          "menu_item_id": "26",
+          "variation_name": "500",
+          "price": 90,
+          "priority": "0",
+          "mrp": 100,
+          "stock": 69,
+          "max_item": "10",
+          "status": "0",
+          "min_item": "1",
+          "weight": "0.5",
+          "membership_price": 85,
+          "unit": "gram",
+          "loyaltys": 0,
+          "images": [
+            {
+              "id": "64",
+              "image": "onion.webp",
+              "ref": "51"
+            }
+          ],
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "eligible_for_express": "1",
+      "delivery_duration": "slot",
+      "eligible_for_subscription": "1",
+      "subscription_slot": [
+        {
+          "id": "1",
+          "name": "test",
+          "cronTime": "5:30 AM",
+          "deliveryTime": "5:30 AM",
+          "branch": "999",
+          "status": "0"
+        }
+      ],
+      "payment_mode": "0",
+      "duration": "0",
+      "category_id": "557",
+      "item_name": "Potato",
+      "item_slug": "potato",
+      "veg_type": "veg",
+      "item_featured_image": "991656.webp",
+      "regular_price": "163",
+      "sale_price": "0",
+      "is_active": "1",
+      "sales_tax": "18",
+      "total_qty": "2",
+      "brand": "Grocbay Naturals",
+      "type": "0",
+      "price_variation": [
+        {
+          "loyalty": 1300,
+          "id": "55",
+          "net_weight": "0",
+          "menu_item_id": "27",
+          "variation_name": "250",
+          "price": 130,
+          "priority": "0",
+          "mrp": 140,
+          "stock": 85,
+          "max_item": "10",
+          "status": "0",
+          "min_item": "1",
+          "weight": "0.25",
+          "membership_price": 125,
+          "unit": "gram",
+          "loyaltys": 0,
+          "images": [
+            {
+              "id": "67",
+              "image": "potato.webp",
+              "ref": "55"
+            }
+          ],
+          "quantity": 0
+        },
+        {
+          "loyalty": 600,
+          "id": "54",
+          "net_weight": "0",
+          "menu_item_id": "27",
+          "variation_name": "500",
+          "price": 60,
+          "priority": "0",
+          "mrp": 70,
+          "stock": 78,
+          "max_item": "10",
+          "status": "0",
+          "min_item": "1",
+          "weight": "0.5",
+          "membership_price": 65,
+          "unit": "gram",
+          "loyaltys": 0,
+          "images": [
+            {
+              "id": "66",
+              "image": "potato.webp",
+              "ref": "54"
+            }
+          ],
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "eligible_for_express": "1",
+      "delivery_duration": [
+        {
+          "id": "3",
+          "name": "24 HOUR",
+          "durationType": "1",
+          "duration": "24",
+          "status": "0",
+          "branch": "999",
+          "note": "8AM TO 10PM",
+          "blockFor": "1"
+        }
+      ],
+      "eligible_for_subscription": "1",
+      "subscription_slot": [
+        {
+          "id": "1",
+          "name": "test",
+          "cronTime": "5:30 AM",
+          "deliveryTime": "5:30 AM",
+          "branch": "999",
+          "status": "0"
+        }
+      ],
+      "payment_mode": "0",
+      "duration": "0",
+      "category_id": "557",
+      "item_name": "Ladies Finger",
+      "item_slug": "ladies-finger",
+      "veg_type": "veg",
+      "item_featured_image": "891611.webp",
+      "regular_price": "193",
+      "sale_price": "0",
+      "is_active": "1",
+      "sales_tax": "18",
+      "total_qty": "0",
+      "brand": "Daily Fresh",
+      "type": "0",
+      "price_variation": [
+        {
+          "loyalty": 500,
+          "id": "57",
+          "net_weight": "0",
+          "menu_item_id": "28",
+          "variation_name": "250",
+          "price": 50,
+          "priority": "0",
+          "mrp": 60,
+          "stock": 97,
+          "max_item": "10",
+          "status": "0",
+          "min_item": "1",
+          "weight": "0.25",
+          "membership_price": 45,
+          "unit": "gram",
+          "loyaltys": 0,
+          "images": [
+            {
+              "id": "68",
+              "image": "ladies finger.webp",
+              "ref": "57"
+            }
+          ],
+          "quantity": 0
+        },
+        {
+          "loyalty": 900,
+          "id": "58",
+          "net_weight": "0",
+          "menu_item_id": "28",
+          "variation_name": "500",
+          "price": 90,
+          "priority": "0",
+          "mrp": 100,
+          "stock": 96,
+          "max_item": "10",
+          "status": "0",
+          "min_item": "1",
+          "weight": "0.5",
+          "membership_price": 85,
+          "unit": "gram",
+          "loyaltys": 0,
+          "images": [
+            {
+              "id": "69",
+              "image": "ladies finger.webp",
+              "ref": "58"
+            }
+          ],
+          "quantity": 0
+        }
+      ]
+    }
+  ]
+}
